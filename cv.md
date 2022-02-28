@@ -14,7 +14,8 @@
 
 ## Briefly About Myself:
 
-I have some experience in development programs for nuclear safety. I like painting, studying and learning
+I have some experience in development programs for gamma-specrometry devices.  
+I like painting, dancind and studying. 
 
 ## Skills:
 
