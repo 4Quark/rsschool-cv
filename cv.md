@@ -1,4 +1,4 @@
-# Maria Samoylova
+# Maria Samoilova
 -----
 ### *Junior Frontend Developer*
 -----
